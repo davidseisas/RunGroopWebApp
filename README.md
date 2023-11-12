@@ -11,7 +11,7 @@ Rungroops is an online platform for runners. This platform will help you to find
 1. Go into directory where you plan on keeping project and run.
 
 ```bash
-  git fork https://github.com/teddysmithdev/RunGroop.git
+  git fork https://github.com/davidseisas/RunGroopWebApp.git
 ```
 
 2. Create a local database. (If you are unsure how to do this, watch my Youtube video )
